@@ -1,3 +1,34 @@
-p {
-    color: red;
+html {
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+    color: #222;
+    background-color: #F4F6F7;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FDFEFE;
+    padding: 0 20px 20px 20px;
+    border: 1px solid black;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #0F0F0E;
+    text-shadow: 3px 3px 1px #CCCCCC;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
 }
